@@ -1,0 +1,13 @@
+name = "Macaw's Holidays"
+filename = "mcw-holidays-1.1.0-mc1.19.2fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/XWv3w9ug/mcw-holidays-1.1.0-mc1.19.2fabric.jar"
+hash-format = "sha1"
+hash = "c05461ca57aaadec5c31f007fe59173229d0b6b9"
+
+[update]
+[update.modrinth]
+mod-id = "rH20L2Lp"
+version = "XWv3w9ug"

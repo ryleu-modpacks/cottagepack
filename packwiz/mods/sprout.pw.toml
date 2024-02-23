@@ -1,0 +1,13 @@
+name = "Sprout"
+filename = "sprout-1.4.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m7Az3ZOX/versions/YEtV6QTx/sprout-1.4.4-fabric.jar"
+hash-format = "sha1"
+hash = "bb80a6748fd026ce9be738206a610dd289a1edbe"
+
+[update]
+[update.modrinth]
+mod-id = "m7Az3ZOX"
+version = "YEtV6QTx"

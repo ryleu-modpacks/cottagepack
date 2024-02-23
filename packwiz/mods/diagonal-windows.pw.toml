@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "DiagonalWindows-v4.0.2-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/C4r1tHVS/DiagonalWindows-v4.0.2-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "1bcb410d929d736ca76d3cfc821079d51e612264"
+
+[update]
+[update.modrinth]
+mod-id = "oOi0CKes"
+version = "C4r1tHVS"

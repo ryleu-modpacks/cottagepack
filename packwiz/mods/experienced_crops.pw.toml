@@ -1,0 +1,13 @@
+name = "Experienced Crops"
+filename = "experienced_crops-1.19.2-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Obi0OZ4c/versions/rYbw4eT6/experienced_crops-1.19.2-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "f9cfdc09c0a5e8ffe729cff989a4593ce13d0ffb"
+
+[update]
+[update.modrinth]
+mod-id = "Obi0OZ4c"
+version = "rYbw4eT6"
