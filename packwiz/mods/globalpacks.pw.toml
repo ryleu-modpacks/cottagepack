@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "global_packs-quilt-1.19.2-1.14.5_quilt.jar"
+filename = "global_packs-fabric-1.19.2-1.14.5_fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/Gn0AWzFj/global_packs-quilt-1.19.2-1.14.5_quilt.jar"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/Q67gzc2j/global_packs-fabric-1.19.2-1.14.5_fabric.jar"
 hash-format = "sha1"
-hash = "1fe2f301be666c498c2b061c5a0138542433f696"
+hash = "ff91fc9dc1933284a1b7128ed4c7ea4160fa5fab"
 
 [update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "Gn0AWzFj"
+version = "Q67gzc2j"

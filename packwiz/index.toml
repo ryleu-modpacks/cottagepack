@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/diet.pw.toml"
-hash = "21cd620ea2a95d2e4be8914691905fef2afa4e02d6a583751617bebb05205eff"
+hash = "db38f78b7dc47ac4a87f3e808960be6ec4ada0954333d72cd187849174a7dedd"
 metafile = true
 
 [[files]]
@@ -201,6 +201,16 @@ hash = "ec2e9df8aeff822d3e013d009a647b664259e7902dc25ac6903d1be9602f1263"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b1203401ca4f0f1a45f411eb7e070451a1a336bffc79f3a1ec6224e535e04780"
 metafile = true
@@ -237,12 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
+hash = "1ce0a9ccb493d6ea3300768b246946bb86bf3104df7dec74f9138c7aa796a0ee"
 metafile = true
 
 [[files]]
@@ -456,18 +466,8 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
-metafile = true
-
-[[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "84e8c4e1af3f1ccd8b38a86ca45cc6ecc5de46b6aaf545050556e9fd7b8771fd"
+hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "1e119e73797243a2f32ef37955c3e5016c184444f2febeb5420802667636ac4b"
+hash = "c85bcd6d505af04a6b18cd6eda822613aaaa7bd4f793faf0c9aa18e876fefc8e"
 metafile = true
 
 [[files]]
