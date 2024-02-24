@@ -36,16 +36,6 @@ hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
 
 [[files]]
-file = "mods/botany-pots.pw.toml"
-hash = "090f3c43833df7be91b9b6e46c778e12d9c442ce8f52fd98c5558ce3dc6cd94c"
-metafile = true
-
-[[files]]
-file = "mods/botany-trees.pw.toml"
-hash = "48aae867ea4211efa069c4f9fc182c1d53060339da6a94960bf2c3967f1c9bbd"
-metafile = true
-
-[[files]]
 file = "mods/bottled-air.pw.toml"
 hash = "fa2f30b668f9e8196acffdb67a1d489d28cb851db20334ea4f4798e25a893179"
 metafile = true
@@ -131,6 +121,11 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/custom-lan.pw.toml"
+hash = "52aa9ca574c5ab2c2879c71303d83353c249fccd7030c4669f8a5ca09d895e49"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -146,18 +141,13 @@ hash = "75f57faebb5278b675126e0b1c1497a7ec94ea2aece7da9adde050b62488d087"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-panes.pw.toml"
-hash = "47f427d1d1497b3e25201919225b0d45f4481c0477dba80d9ef38fddff7a18a8"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "e03f99283b9584b35525b08b0afd70ecf5539c0014ca522b40ab5222beb133f4"
 metafile = true
 
 [[files]]
 file = "mods/diet.pw.toml"
-hash = "db38f78b7dc47ac4a87f3e808960be6ec4ada0954333d72cd187849174a7dedd"
+hash = "21cd620ea2a95d2e4be8914691905fef2afa4e02d6a583751617bebb05205eff"
 metafile = true
 
 [[files]]
@@ -173,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "1a81f49172b50a84928cb2d006399a306b22b72171af3654562a3aeae7123918"
-metafile = true
-
-[[files]]
-file = "mods/ends-delight.pw.toml"
-hash = "8dd6ee6463956ec0b2824b5d1dace7aa44182e503f63e9722fa315993163e2e5"
 metafile = true
 
 [[files]]
@@ -213,16 +198,6 @@ metafile = true
 [[files]]
 file = "mods/experienced_crops.pw.toml"
 hash = "ec2e9df8aeff822d3e013d009a647b664259e7902dc25ac6903d1be9602f1263"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -262,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "1ce0a9ccb493d6ea3300768b246946bb86bf3104df7dec74f9138c7aa796a0ee"
+hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
 metafile = true
 
 [[files]]
@@ -466,6 +441,11 @@ hash = "9737a3331c333a50ff49d5455ce79028ebd46c5cbd8f635aef0a35e3353f5962"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/pigs-have-litters.pw.toml"
 hash = "9b3fe44f14e0f8e28873b4c29c4c7c58676ef56c9993334a6dae506c5b60b532"
 metafile = true
@@ -476,8 +456,18 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
+metafile = true
+
+[[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
+hash = "84e8c4e1af3f1ccd8b38a86ca45cc6ecc5de46b6aaf545050556e9fd7b8771fd"
 metafile = true
 
 [[files]]
@@ -592,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c85bcd6d505af04a6b18cd6eda822613aaaa7bd4f793faf0c9aa18e876fefc8e"
+hash = "1e119e73797243a2f32ef37955c3e5016c184444f2febeb5420802667636ac4b"
 metafile = true
 
 [[files]]
