@@ -11,6 +11,11 @@ hash = "25ccb41ec66e522ac9fb2836c731f94643bd31f4ee9ce11b4f06a800793159b7"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "574123c23ecabf3cfc80f20fddef3474ddea134b7c3a76d9601486bf40f69dfc"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4206f9a4f04d9a1643fa579c2b268975d3d9901e420b4aa24ca49638818a9b16"
 metafile = true
@@ -456,6 +461,11 @@ hash = "c7124348f0ad3baaa0ce3379b52b248107212465059a4b508cd7be4693b46def"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
@@ -498,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5e37c2458f2f92a16eca8ef74f8bbb82c7e6bd6550eff47fdebfbc608848af74"
 metafile = true
 
 [[files]]
