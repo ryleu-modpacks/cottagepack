@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
+hash = "25ccb41ec66e522ac9fb2836c731f94643bd31f4ee9ce11b4f06a800793159b7"
 metafile = true
 
 [[files]]
@@ -37,12 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/bottled-air.pw.toml"
-hash = "fa2f30b668f9e8196acffdb67a1d489d28cb851db20334ea4f4798e25a893179"
-metafile = true
-
-[[files]]
-file = "mods/brewery.pw.toml"
-hash = "eb5667bd4ecf4e344cb39ccb18e016405a27d0f86485d58539ceb7633efd1fc1"
+hash = "c3981178c74f471cd81dff201357a060daaa461ddf4f5991b4cba0fee90cdccc"
 metafile = true
 
 [[files]]
@@ -72,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chicken-nerf.pw.toml"
-hash = "11acb4c9abe0eaf02f69e2409d0d4d4bba4b11dc1b023c55e33cbf3d026ebea8"
+hash = "1ccf37a95d29bd39fdb7352fbdcef993358a6aa2339b35cc54d89549e7e65372"
 metafile = true
 
 [[files]]
@@ -97,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+hash = "32fd0720c04f018f5543a1027d45974fe734d35f3c6f104bcfb9ccc232dfb4cc"
 metafile = true
 
 [[files]]
@@ -132,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/despawning-eggs-hatch.pw.toml"
-hash = "b9768c82655e0a653dc718f83631d04b401db7a3d669f23aa6631ed45f4952d9"
+hash = "7dae05674a9edfeee784eb3d937b06f4796a3e859d6f8ee42954a88b88e8367f"
 metafile = true
 
 [[files]]
@@ -302,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
-hash = "8d3408ba99bb79d35b1481b1de7cedb0e63bc480fb8d2fc9e837eef94ba11eb2"
+hash = "c5c9da44cc082993a44c69599a31b72c4fe203663fe55bd13096a243843f3977"
 metafile = true
 
 [[files]]
@@ -457,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/pigs-have-litters.pw.toml"
-hash = "9b3fe44f14e0f8e28873b4c29c4c7c58676ef56c9993334a6dae506c5b60b532"
+hash = "c7124348f0ad3baaa0ce3379b52b248107212465059a4b508cd7be4693b46def"
 metafile = true
 
 [[files]]
@@ -477,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
+hash = "d3515eb030a969a78f71f82fdf103e3cdc27233d5db4c047ae2ca07838c95c81"
 metafile = true
 
 [[files]]
@@ -487,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "ac66f67b47234f216aaec2f7b73205da366bc3beb1dee2da2a6c8e2d0d53d840"
+hash = "5c6434773ecb5d8809cfbe5ec80e097fc9c308169d6792496ecd405864cb672e"
 metafile = true
 
 [[files]]
@@ -512,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6407dc1e0bc378090b03f224ac09edc923e6a903aee4225e8b2f97cd8dfe1d61"
+hash = "29a3bd796e98cf40f8f6bf22bdc69989318083f8793b5b1d2300ab81b89b62dd"
 metafile = true
 
 [[files]]
@@ -552,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "e3cfc752e7e5f58995bfa9a46c926cd6d284c2daff4eca6b8fd330f0cbab4cfe"
+hash = "efe12969cfcd7424b0dd27af721fe7b8706770750b81a45579ddd6a69cd8506b"
 metafile = true
 
 [[files]]
