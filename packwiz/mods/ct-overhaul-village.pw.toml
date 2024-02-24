@@ -1,11 +1,11 @@
-name = "ChoiceTheorem's Overhauled Village"
 filename = "ctov-3.2.6c.jar"
-side = "server"
+name = "ChoiceTheorem's Overhauled Village"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/CXja9TJq/ctov-3.2.6c.jar"
-hash-format = "sha1"
 hash = "5c853c1c32ddbbbae4a41ab5150394211141703e"
+hash-format = "sha1"
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/CXja9TJq/ctov-3.2.6c.jar"
 
 [update]
 [update.modrinth]

@@ -1,11 +1,11 @@
-name = "Patbox's Brewery"
 filename = "brewery-0.2.3+1.19.2.jar"
-side = "server"
+name = "Patbox's Brewery"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nr7cSJlY/versions/DwqdV8jL/brewery-0.2.3%2B1.19.2.jar"
-hash-format = "sha1"
 hash = "2e420fb516d967518809494ef8a8b388cfc578b8"
+hash-format = "sha1"
+url = "https://cdn.modrinth.com/data/nr7cSJlY/versions/DwqdV8jL/brewery-0.2.3%2B1.19.2.jar"
 
 [update]
 [update.modrinth]

@@ -1,11 +1,11 @@
-name = "Alternate Current"
 filename = "alternate-current-mc1.19-1.7.0.jar"
-side = "server"
+name = "Alternate Current"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/FkanfPQt/alternate-current-mc1.19-1.7.0.jar"
-hash-format = "sha1"
 hash = "177e61f0717ce406eb38aebf948351692f857e3a"
+hash-format = "sha1"
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/FkanfPQt/alternate-current-mc1.19-1.7.0.jar"
 
 [update]
 [update.modrinth]
