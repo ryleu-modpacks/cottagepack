@@ -76,6 +76,11 @@ hash = "474ab7974a81e6844d9967866a763c2480aea4028bcaafb0d2dcb24ba1a2898d"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "5413af8c51f43ae4dbe8e76e12018791550a11387ea7005912314f07dcca7237"
+metafile = true
+
+[[files]]
 file = "mods/chicken-nerf.pw.toml"
 hash = "1ccf37a95d29bd39fdb7352fbdcef993358a6aa2339b35cc54d89549e7e65372"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
@@ -211,6 +221,11 @@ hash = "ec2e9df8aeff822d3e013d009a647b664259e7902dc25ac6903d1be9602f1263"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "9ca0882b3bbe3285b165c8cdb0288cb5d252897544c8235147a8a6db811d1a50"
 metafile = true
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/inmisaddon.pw.toml"
 hash = "ca62f90e25b49a7ed0404d08bffa3abe488b78aefac01873e2f38ef5ef337b89"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
 metafile = true
 
 [[files]]
@@ -476,6 +496,11 @@ hash = "c7124348f0ad3baaa0ce3379b52b248107212465059a4b508cd7be4693b46def"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "2f02aae30c91251d50e9000d2a70e90f36024af6fe541b8d15fc7e4b9862e192"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
@@ -593,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "1ada0b2942853c79cdaa88b2b253ab55b1f6eadfb475d0d4a8cf4ac5f3174b2a"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "f405e1b2cbdb29a801ef83bd3eb78b90360b29d3ca957683d25aae72365059a6"
 metafile = true
 
 [[files]]
