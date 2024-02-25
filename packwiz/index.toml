@@ -111,6 +111,11 @@ hash = "c159db52ea035f9a0d54dbc7dbc1038b0279b58169453cf7a75f38553c96c0a2"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "aa662c6d90c0974ce669e5409e6e3f71c04966884226d1fbfc36f0c1bfcdeae9"
+metafile = true
+
+[[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "a3bbc84fb53ebddcfd29cd4fd488dd36dabf4383faf30970da8916b5d946b835"
 metafile = true
