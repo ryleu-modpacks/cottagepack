@@ -186,6 +186,11 @@ hash = "1a81f49172b50a84928cb2d006399a306b22b72171af3654562a3aeae7123918"
 metafile = true
 
 [[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "cb393324deb0194fb3a0019f40f1c42f45b295dbbfd118e9e4343f4b0d97244e"
 metafile = true
