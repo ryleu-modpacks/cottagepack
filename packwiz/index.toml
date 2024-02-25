@@ -121,6 +121,11 @@ hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "32fd0720c04f018f5543a1027d45974fe734d35f3c6f104bcfb9ccc232dfb4cc"
 metafile = true
@@ -283,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "aae2a50cf3b9845bcaab66d782f1e395bb97b549301948e9a5951a7015a76029"
 metafile = true
 
 [[files]]
