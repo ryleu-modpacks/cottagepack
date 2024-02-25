@@ -1,0 +1,13 @@
+name = "Mob Explosion Griefing Gamerule"
+filename = "mob_explosion_griefing-1.0.0_1.19-1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/l9H9JPmo/versions/opP6vnmJ/mob_explosion_griefing-1.0.0_1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "0bcf708df91074d34a667051029510bebbdf9eea"
+
+[update]
+[update.modrinth]
+mod-id = "l9H9JPmo"
+version = "opP6vnmJ"

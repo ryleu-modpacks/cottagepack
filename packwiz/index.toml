@@ -31,6 +31,11 @@ hash = "997c16130f34bf02d072731b8495b44cdd468aab70c1c65c1b640df6895a601c"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
@@ -131,6 +136,11 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
+metafile = true
+
+[[files]]
 file = "mods/despawning-eggs-hatch.pw.toml"
 hash = "7dae05674a9edfeee784eb3d937b06f4796a3e859d6f8ee42954a88b88e8367f"
 metafile = true
@@ -201,6 +211,11 @@ hash = "ec2e9df8aeff822d3e013d009a647b664259e7902dc25ac6903d1be9602f1263"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "9ca0882b3bbe3285b165c8cdb0288cb5d252897544c8235147a8a6db811d1a50"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
@@ -228,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
-metafile = true
-
-[[files]]
-file = "mods/festive-delight.pw.toml"
-hash = "379f52bc03fc822248538e607e700219dfb82dc5efc9e726c489262011da58b2"
 metafile = true
 
 [[files]]
@@ -411,6 +421,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mobexplosiongriefinggamerule.pw.toml"
+hash = "adc6130ebeb7344811db035b984071d850a9dc94a81b840843679f1a0d5918f2"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "77c8b976aed1fe40c5677e607a98860455bfb21fd7fb8559ccf60a96b5f99f87"
 metafile = true
@@ -458,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/pigs-have-litters.pw.toml"
 hash = "c7124348f0ad3baaa0ce3379b52b248107212465059a4b508cd7be4693b46def"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
 
 [[files]]
