@@ -196,6 +196,11 @@ hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "4c272f8e64788341090015050f2a4062d0944958f3479dcbbfa7639676f1053e"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "82b4407537197c227ffbacd6de6a6f1181f69389f1635be1952b9b8392174dac"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "852a53b35cb68bcc214638800c38738c685dccefd0ed7eeaad687b10cb7a4985"
 metafile = true
 
 [[files]]
