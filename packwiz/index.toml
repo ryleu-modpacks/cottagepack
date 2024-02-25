@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
+hash = "2a80fbe748cd8ca0fca183f2f8d12edaebca87255c70f882b5c1729782545964"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobexplosiongriefinggamerule.pw.toml"
-hash = "adc6130ebeb7344811db035b984071d850a9dc94a81b840843679f1a0d5918f2"
+hash = "d0a445f88ff67513fa7fc5d4d7e87dbdb11d943eeebadfea861a756d41174652"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "2f02aae30c91251d50e9000d2a70e90f36024af6fe541b8d15fc7e4b9862e192"
+hash = "fd8b38de672b0da74b4b228009eee3746392599145362619aea0e2175b605477"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "f405e1b2cbdb29a801ef83bd3eb78b90360b29d3ca957683d25aae72365059a6"
+hash = "9210a2e70f1b4fb914a2acc7a01bb7620eed226a8a91e0fb88fecea66411ab87"
 metafile = true
 
 [[files]]
