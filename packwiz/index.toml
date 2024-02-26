@@ -56,6 +56,11 @@ hash = "c3981178c74f471cd81dff201357a060daaa461ddf4f5991b4cba0fee90cdccc"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "8d8ba7a8da5a4b73616e8df7ee340fea73110df17866dbfe802665bb44bba58a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
@@ -213,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/emicompat.pw.toml"
 hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
 metafile = true
 
 [[files]]
