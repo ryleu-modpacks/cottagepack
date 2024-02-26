@@ -631,6 +631,11 @@ hash = "5a96fbd8133959571255e03581bbcc791f5997cd87277daeaf6fcb489290d071"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "30a3e3f7f468a6b0c2d65fcaab7ff138881c0a921316fa721a5c3a1d77ec4bac"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "766518c9a6a7f1f147c7fc562607c1806800b12f81cd3ea6218633fa30ffe11d"
 metafile = true
