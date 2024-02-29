@@ -1,11 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "global_packs/required_data/cottagepack/diet/tags/items/fruits.json"
+file = "global_packs/required_data/cottagepack/data/diet/tags/items/fruits.json"
 hash = "582b20b5110302eaa9c8f8ea59048cbfa7a93ffbb3d5774d88ac71596afce869"
 
 [[files]]
-file = "global_packs/required_data/cottagepack/diet/tags/items/grains.json"
+file = "global_packs/required_data/cottagepack/data/diet/tags/items/grains.json"
 hash = "69541526475c723c4a0a83375e920c49752c4bad2a4b726b2e8dc429e6141ff8"
 
 [[files]]
