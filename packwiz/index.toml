@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/diet-server.toml"
+hash = "72967e648eac02bf67092a726ffa77ce9976f65efa0d467794165529e4c45167"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "ecbb493bbe33104a16aa3177b02546db8d5f7bbca50c6e4f96b9e2c2ea3b7c74"
+
+[[files]]
 file = "global_packs/required_data/cottagepack/data/diet/tags/items/fruits.json"
 hash = "14653c6e437fd7b56c3de78d83024b15e69e8f7afcc27a9a10df34275d02b5ae"
 
