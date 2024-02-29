@@ -211,16 +211,6 @@ hash = "82b4407537197c227ffbacd6de6a6f1181f69389f1635be1952b9b8392174dac"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "1a81f49172b50a84928cb2d006399a306b22b72171af3654562a3aeae7123918"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
 metafile = true
@@ -368,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "9cf270ff7a0bda4769db11197f43698ebc105e81870d6e7f6b9979c1dbd38ae9"
 metafile = true
 
 [[files]]
@@ -573,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "cf8d5434e6506aa6ff67f329213d3d6a73c089f4cc4821ba46ed6592129cdda2"
 metafile = true
 
 [[files]]
