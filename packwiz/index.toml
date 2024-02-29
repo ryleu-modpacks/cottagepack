@@ -10,19 +10,19 @@ hash = "69541526475c723c4a0a83375e920c49752c4bad2a4b726b2e8dc429e6141ff8"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/bundt_cake.json"
-hash = "6478ca77fe1a8f6d7e7643a8bd38a27798a73afdcc97dac179e36d88174451a0"
+hash = "9550bcf57be6f121730f9151298e33a0c7b492984223c03bd152239a4d6bc8b5"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/chocolate_cake.json"
-hash = "f55ca400e284b338c817894e6ddd10aa72d33eb0f6ae366259014ff146d55173"
+hash = "f9d60607da67a0a5cac52ec41a9fe7a3605825756e716210224571c9f50df301"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/strawberry_cake.json"
-hash = "a7c65b44f2b4e458c2199638fdf61376fe96f9a1009b7440df6547346119d1cb"
+hash = "f62a93641ac943678c53832d749fdbab6082118062a053721e67771a1f6892cd"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/sweetberry_cake.json"
-hash = "d8f8736d638480fee52063cd9da631dd985b99f8e7d00814b46761a5ddf5a42b"
+hash = "06c3037a27173e0f0028206f1fbb93dcf1646f00757b761dff7d540481d4698f"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/pack.mcmeta"
