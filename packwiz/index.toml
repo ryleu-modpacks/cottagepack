@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/cottagepack/diet/tags/items/fruits.json"
+hash = "fc315660b71ae370e6d30c27486aac45366147a3644182df804cbee0a8f304e1"
+
+[[files]]
+file = "global_packs/required_data/cottagepack/diet/tags/items/grains.json"
+hash = "69541526475c723c4a0a83375e920c49752c4bad2a4b726b2e8dc429e6141ff8"
+
+[[files]]
+file = "global_packs/required_data/cottagepack/pack.mcmeta"
+hash = "f9eee51b996bf95b1cbc2af039920ecb02242ae23ed7c64e273de039b3e0c729"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
@@ -268,6 +280,21 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
 metafile = true
 
 [[files]]

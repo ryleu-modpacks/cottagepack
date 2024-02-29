@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#vinery:grape",
+        "#vinery:red_grape",
+        "#vinery:white_grape",
+        "bakery:strawberry"
+    ],
+    "replace": "false"
+}
