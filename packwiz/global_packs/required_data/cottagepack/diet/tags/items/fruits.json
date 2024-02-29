@@ -3,6 +3,7 @@
         "#vinery:grape",
         "#vinery:red_grape",
         "#vinery:white_grape",
+        "#vinery:grapejuice",
         "bakery:strawberry"
     ],
     "replace": "false"
