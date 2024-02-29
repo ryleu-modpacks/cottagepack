@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "574123c23ecabf3cfc80f20fddef3474ddea134b7c3a76d9601486bf40f69dfc"
+hash = "f2eaabbcff7b9c2819dc276b20b9eb5ebeab9c7f2241b2603012cf573cc1aaf3"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "93ab5cc883afdea0d637ff6222e440656cc075d7a93424840b37588ad1ae46a9"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "4b68b30e6d461076e9e2e75de9a01782653c02e8fd05cb0222bea6123df36433"
+hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c159db52ea035f9a0d54dbc7dbc1038b0279b58169453cf7a75f38553c96c0a2"
+hash = "851f72e85f2532310d37b9d7c15352f2e5f17bf91a6dffda93083273e2ee3dcf"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "efe12969cfcd7424b0dd27af721fe7b8706770750b81a45579ddd6a69cd8506b"
+hash = "8035cda62b271c2f7b075fc97cee8a0eccf7803e556cef4acd58815c3e88f17f"
 metafile = true
 
 [[files]]
