@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "bakery:chocolate_tart"
+        }
+    ],
+    "result": [
+        {
+            "item": "bakery:chocolate_tart_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    }
+}

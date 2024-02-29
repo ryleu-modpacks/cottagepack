@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "bakery:apple_pie"
+        }
+    ],
+    "result": [
+        {
+            "item": "bakery:apple_pie_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    }
+}

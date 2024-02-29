@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "bakery:glowberry_tart"
+        }
+    ],
+    "result": [
+        {
+            "item": "bakery:glowberry_tart_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    }
+}

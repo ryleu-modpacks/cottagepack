@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "bakery:pudding"
+        }
+    ],
+    "result": [
+        {
+            "item": "bakery:pudding_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    }
+}
