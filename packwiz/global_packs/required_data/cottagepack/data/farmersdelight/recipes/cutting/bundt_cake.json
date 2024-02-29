@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "bakery:bundt_cake"
+        }
+    ],
+    "result": [
+        {
+            "item": "farmersdelight:bundt_cake_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knives"
+    }
+}
