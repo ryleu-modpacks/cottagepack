@@ -628,11 +628,6 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/straw-golem.pw.toml"
-hash = "9f05099da71efe4d74e98d3b54ead204fae9553ad79c93aaf45b5ba9a3d130b9"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "969dcef45857b1d2998b453a3db85c7762151ed23d631c9176e3388e533570e8"
 metafile = true
