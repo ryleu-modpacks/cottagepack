@@ -2,12 +2,12 @@
     "type": "farmersdelight:cutting",
     "ingredients": [
         {
-            "item": "bakery:glowberry_tart"
+            "item": "bakery:glowberry_pie"
         }
     ],
     "result": [
         {
-            "item": "bakery:glowberry_tart_slice",
+            "item": "bakery:glowberry_pie_slice",
             "count": 4
         }
     ],

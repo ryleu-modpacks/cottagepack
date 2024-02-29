@@ -2,12 +2,12 @@
     "type": "farmersdelight:cutting",
     "ingredients": [
         {
-            "item": "bakery:apple_pie"
+            "item": "farmersdelight:apple_pie"
         }
     ],
     "result": [
         {
-            "item": "bakery:apple_pie_slice",
+            "item": "farmersdelight:apple_pie_slice",
             "count": 4
         }
     ],
