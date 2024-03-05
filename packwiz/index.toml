@@ -18,7 +18,7 @@ hash = "69541526475c723c4a0a83375e920c49752c4bad2a4b726b2e8dc429e6141ff8"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/apple_pie.json"
-hash = "8a2ce82e00bfb4db8608cfd15fb3b56515872c382d0bc8e028a432691f8c1280"
+hash = "d50681cfaabb2ff7b41838a7a0744ed2b0c1b8acbeec8542dab3f4b7b54a0955"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/bundt_cake.json"
@@ -34,7 +34,7 @@ hash = "d73063d8d8c6462adb894e1dde1b6167a15207b44b92ec1d922d6dece6e67e2b"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/glowberry_tart.json"
-hash = "771f79b5cf81d2d0221aa16c68cc9ef3aa534c687f2bca9c33a228e56f5ddd14"
+hash = "16eef0d8dc0987953fb5b05005fef95af9714ed2c6d442a8af9966962031d0d7"
 
 [[files]]
 file = "global_packs/required_data/cottagepack/data/farmersdelight/recipes/cutting/linzer_tart.json"
